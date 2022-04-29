@@ -1,0 +1,8 @@
+arch                
+numpy             
+pandas              
+plotly              
+session_info        
+sklearn            
+statsmodels        
+yfinance       
